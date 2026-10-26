@@ -769,6 +769,7 @@ List of some useful free online tools and sites
 - [**View PPS Online** - (*Open and view PPS documents online*)](https://products.groupdocs.app/viewer/pps)
 
 ## <a name="social_networks"></a>**Social Networks**
+- [**7emoji** - (*AI emoji translator—paste text and get up to 10 context-matched emoji suggestions to copy*)](https://7emoji.fun)
 - [**EmojiTerra** - (*Emojis to copy and paste*)](https://emojiterra.com/)
 - [**Fancy Text Decorator** - (*Generate cool text to be used on Whatsapp, Instagram, Twitter, Youtube, Discord...*)](https://fancytextdecorator.com/)
 - [**Fancy Text Generator** - (*Generate cool text to be used on Whatsapp, Instagram, Twitter, Youtube, Discord...*)](https://lingojam.com/FancyTextGenerator)
