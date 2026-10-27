@@ -154,6 +154,7 @@ List of some useful free online tools and sites
 - [**Tiktokenizer** - (*Tool for developers to track users' token usage so that each customer is billed proportionally*)](https://tiktokenizer.vercel.app/)
 - [**TTSMP3.com** - (*Free Text-To-Speech and Text-to-MP3*)](https://ttsmp3.com/)
 - [**Udio** - (*Make your music*)](https://www.udio.com/)
+- [**YouTube Summarizer** - (*Free YouTube video summarizer—paste a link, get a clear summary with key points in seconds*)](https://youtubesummarizer.org)
 - [**ZZZ Code AI** - (*Coding website powered by AI!*)](https://zzzcode.ai/)
 
 ## <a name="air_traffic"></a>**Air Traffic**
