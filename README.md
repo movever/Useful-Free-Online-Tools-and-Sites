@@ -840,6 +840,7 @@ List of some useful free online tools and sites
 
 ## <a name="videos"></a>**Videos**
 - [**Clideo** - (*Video tools*)](https://clideo.com/tools/)
+- [**Html2MP4** - (*Create MP4 videos from HTML, prompts, templates and websites online*)](https://html2mp4.com)
 - [**Extract Audio From Video** - (*Extract and download the audio from a video, or remove the audio from a video*)](https://www.onlineconverter.com/extract-audio-from-video)
 - [**Ezgif - GIF to Video** - (*GIF to MP4 converter*)](https://ezgif.com/gif-to-mp4) 
 - [**Ezgif - Video to GIF** - (*MP4 video to GIF converter*)](https://ezgif.com/video-to-gif) 
