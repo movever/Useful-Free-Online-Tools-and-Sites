@@ -97,6 +97,7 @@ List of some useful free online tools and sites
 - [**AI Music Generator** - (*Transform your ideas into songs instantly*)](https://aimusicgen.ai/)
 - [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
 - [**AIVA** - (*AI Music Generation Assistant*)](https://www.aiva.ai/)
+- [**AI Story Writer** - (*Free AI story writer for kids—short family-safe stories with illustrations and narration*)](https://aistorywriter.org)
 - [**Basic Pitch** - (*Free audio-to-MIDI converter with pitch bend detection*)](https://basicpitch.spotify.com/)
 - [**Beatoven** - (*Create customisable royalty free music that elevates your story*)](https://www.beatoven.ai/)
 - [**Big Speak** - (*Generate English speech from text with AI*)](https://bigspeak.ai/)
